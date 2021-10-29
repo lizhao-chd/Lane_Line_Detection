@@ -1,0 +1,5 @@
+pip install opencv-python  -i https://pypi.tuna.tsinghua.edu.cn/simple
+pip install imutils  -i https://pypi.tuna.tsinghua.edu.cn/simple
+pip install numpy  -i https://pypi.tuna.tsinghua.edu.cn/simple
+pip install xlwt  -i https://pypi.tuna.tsinghua.edu.cn/simple
+pip install matplotlib  -i https://pypi.tuna.tsinghua.edu.cn/simple
